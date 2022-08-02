@@ -1,1 +1,1 @@
-# VCF-Service-Directory-Admin-Api
+# vcf-service-directory-admin-api
